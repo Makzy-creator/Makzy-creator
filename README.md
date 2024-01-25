@@ -19,6 +19,6 @@ I actively started learning web development 2022 and I'm currently working with 
 ## Contact Me
 I am always open to challenges and collaborations with great minds. Please feel free to contact me if you have any questions
 or would like to discuss potential projects.
-  Email: favymaxwell@gmail.com
+  Email: keichamaxwell@gmail.com
   LinkedIn: favour Chikezie
 
