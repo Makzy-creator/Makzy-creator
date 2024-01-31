@@ -12,7 +12,7 @@ I actively started learning web development 2022 and I'm currently working with 
 
 ⚡ Fun fact: ...
   -I sing alot
-  -I dance so well
+  -I dance quite well
   -I love to play
   -I dream too biig and yeah I am project driven
   
